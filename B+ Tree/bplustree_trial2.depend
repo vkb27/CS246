@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1649576712 source:d:\coding\cs246\bplustree_trial2\main.cpp
+	<iostream>
+	"bplustree.h"
+
+1649571625 source:d:\coding\cs246\bplustree_trial2\node.cpp
+	"node.h"
+	<iostream>
+	<vector>
+
+1649569934 d:\coding\cs246\bplustree_trial2\node.h
+	<iostream>
+	<vector>
+
+1649583050 source:d:\coding\cs246\bplustree_trial2\bplustree.cpp
+	"bplustree.h"
+	"node.h"
+	<iostream>
+	<vector>
+	<algorithm>
+
+1649577781 d:\coding\cs246\bplustree_trial2\bplustree.h
+	"node.h"
+	<iostream>
+	<vector>
+	<algorithm>
+
