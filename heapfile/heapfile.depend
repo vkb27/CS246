@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1650017771 source:d:\coding\cs246\heapfile\main.cpp
+	<iostream>
+	"file.h"
+
+1650017728 source:d:\coding\cs246\heapfile\file.cpp
+	"file.h"
+	<iostream>
+	<vector>
+	"page.h"
+
+1650016702 d:\coding\cs246\heapfile\file.h
+	"page.h"
+	<vector>
+
+1650016944 d:\coding\cs246\heapfile\page.h
+	<vector>
+
+1650016933 source:d:\coding\cs246\heapfile\page.cpp
+	"page.h"
+	<iostream>
+	<vector>
+
