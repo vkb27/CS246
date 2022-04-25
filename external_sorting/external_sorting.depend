@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1650779628 source:d:\coding\cs246\external_sorting\main.cpp
+	<iostream>
+	"file.h"
+
+1650779513 source:d:\coding\cs246\external_sorting\file.cpp
+	"file.h"
+	<iostream>
+	<vector>
+	<cmath>
+	"page.h"
+	"buffer.h"
+
+1650776942 d:\coding\cs246\external_sorting\file.h
+	"page.h"
+	"buffer.h"
+	<vector>
+
+1650779132 d:\coding\cs246\external_sorting\page.h
+	<vector>
+
+1650779252 source:d:\coding\cs246\external_sorting\page.cpp
+	"page.h"
+	<iostream>
+	<algorithm>
+	<vector>
+
+1650778128 source:d:\coding\cs246\external_sorting\buffer.cpp
+	"buffer.h"
+	"page.h"
+	<vector>
+	<iostream>
+	<algorithm>
+	"page.h"
+	<vector>
+
+1650778135 d:\coding\cs246\external_sorting\buffer.h
+	"page.h"
+	<vector>
+	<iostream>
+
